@@ -1,0 +1,29 @@
+{
+  "name": "@bu0nq/asset-scss-reset",
+  "version": "0.1.0",
+  "description": "Package for integrating Asset SCSS Reset",
+  "files": [
+    "./**/*.scss"
+  ],
+  "keywords": [
+    "asset",
+    "scss",
+    "reset"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/asset-scss-reset.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/asset-scss-reset/issues"
+  },
+  "homepage": "https://github.com/bu0nq/asset-scss-reset#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
